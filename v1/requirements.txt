@@ -1,0 +1,7 @@
+numpy
+scipy
+scikit-learn
+gensim
+# Use brew install graph-tool for MacOS
+
+gunicorn
